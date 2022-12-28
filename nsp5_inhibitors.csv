@@ -1,0 +1,12 @@
+Drug PDB ID,Drug Name,SMILES
+4WI,PF-07321332 (Nirmatrelvir),[H][C@]12CN([C@H](C(=O)N[C@@H](C[C@]3([H])CCNC3=O)C#N)[C@@]1([H])C2(C)C)C(=O)[C@@H](NC(=O)C(F)(F)F)C(C)(C)C
+80I,PF-07304814,[H][C@@]1(C[C@H](NC(=O)[C@H](CC(C)C)NC(=O)C2=CC3=C(N2)C=CC=C3OC)C(=O)COP(O)(O)=O)CCNC1=O
+///,PBI-0451,C1C[C@H](C(=O)NC1)C[C@@H](C#N)NC(=O)[C@H](CC2CC2)NC(=O)C3=CC4=C(N3)C(=CC=C4)Cl
+7YY,S-217622 (Ensitrelvir),Clc1c(cc2cn(nc2c1)C)/N=c/1\[nH]c(=O)n(c(=O)n1Cc1c(cc(c(c1)F)F)F)Cc1nn(cn1)C
+DR7,Atazanavir,CC(C)(C)[C@@H](C(=O)N[C@@H](CC1=CC=CC=C1)[C@H](CN(CC2=CC=C(C=C2)C3=CC=CC=N3)NC(=O)[C@H](C(C)(C)C)NC(=O)OC)O)NC(=O)OC
+9JT,Ebselen,C1=CC=C(C=C1)N2C(=O)C3=CC=CC=C3[Se]2
+AB1,Lopinavir,CC1=C(C(=CC=C1)C)OCC(=O)N[C@@H](CC2=CC=CC=C2)[C@H](C[C@H](CC3=CC=CC=C3)NC(=O)[C@H](C(C)C)N4CCCNC4=O)O
+RIT,Ritonavir,CC(C)C1=NC(=CS1)CN(C)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CC2=CC=CC=C2)C[C@@H]([C@H](CC3=CC=CC=C3)NC(=O)OCC4=CN=CS4)O
+TSV,Danoprevir ,CC(C)(C)OC(=O)N[C@H]1CCCCC/C=C\[C@@H]2C[C@]2(NC(=O)[C@@H]3C[C@H](CN3C1=O)OC(=O)N4CC5=C(C4)C(=CC=C5)F)C(=O)NS(=O)(=O)C6CC6
+O6K,13b,CC(C)(C)OC(=O)NC1=CC=CN(C1=O)[C@@H](CC2CC2)C(=O)N[C@@H](C[C@@H]3CCNC3=O)[C@H](C(=O)NCc4ccccc4)O
+K36,GC376,CC(C)C[C@@H](C(=O)N[C@@H](CC1CCNC1=O)C(O)S(=O)(=O)O)NC(=O)OCC2=CC=CC=C2
